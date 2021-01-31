@@ -88,3 +88,274 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+*.lock
+Pods/Mapbox-iOS-SDK/dynamic/0DC8DAD8-C6D7-343B-ACBF-79B48068D7CC.bcsymbolmap
+Pods/Mapbox-iOS-SDK/dynamic/8F3E82C3-52DF-39E5-809D-3389B6CBCAD4.bcsymbolmap
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ar.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ar.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Assets.car
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Base.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Base.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/bg.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/bg.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/bg.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/bg.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ca.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ca.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ca.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ca.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/cs.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/cs.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/cs.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/cs.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/da.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/da.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/da.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/da.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/de.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/de.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/de.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/de.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/en.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/en.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/es.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/es.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/es.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/es.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/fr.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/fr.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/fr.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/gl.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/gl.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/gl.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/gl.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/he.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/he.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/Mapbox.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLAccountManager.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLAnnotation.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLAnnotationImage.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLAnnotationView.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLAttributedExpression.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLAttributionInfo.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLBackgroundStyleLayer.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLCalloutView.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLCameraChangeReason.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLCircleStyleLayer.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLClockDirectionFormatter.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLCluster.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLCompassButton.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLCompassDirectionFormatter.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLComputedShapeSource.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLCoordinateFormatter.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLDistanceFormatter.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLEvent.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLFeature.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLFillExtrusionStyleLayer.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLFillStyleLayer.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLForegroundStyleLayer.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLFoundation.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLGeometry.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLHeatmapStyleLayer.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLHillshadeStyleLayer.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLImageSource.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLLight.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLLineStyleLayer.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLLocationManager.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLLoggingConfiguration.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLMapCamera.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLMapSnapshotter.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLMapView+IBAdditions.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLMapView.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLMapViewDelegate.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLMultiPoint.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLNetworkConfiguration.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLObserver.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLOfflinePack.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLOfflineRegion.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLOfflineStorage.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLOpenGLStyleLayer.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLOverlay.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLPointAnnotation.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLPointCollection.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLPolygon.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLPolyline.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLRasterDEMSource.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLRasterStyleLayer.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLRasterTileSource.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLSDKMetricsManager.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLShape.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLShapeCollection.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLShapeOfflineRegion.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLShapeSource.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLSource.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLStyle.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLStyleLayer.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLStyleValue.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLSymbolStyleLayer.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLTilePyramidOfflineRegion.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLTileSource.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLTypes.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLUserLocation.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLUserLocationAnnotationView.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLUserLocationAnnotationViewStyle.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLVectorStyleLayer.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/MGLVectorTileSource.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/NSExpression+MGLAdditions.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/NSPredicate+MGLAdditions.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Headers/NSValue+MGLAdditions.h
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/hu.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/hu.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Info.plist
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ja.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ja.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ko.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ko.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ko.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ko.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/lt.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/lt.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/lt.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/lt.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Mapbox
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/Modules/module.modulemap
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/pl.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/pt-BR.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/pt-BR.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/pt-BR.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/pt-BR.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/pt-PT.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/pt-PT.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/pt-PT.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ru.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ru.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ru.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/ru.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/strip-frameworks.sh
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/sv.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/sv.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/sv.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/sv.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/uk.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/uk.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/uk.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/uk.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/vi.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/vi.lproj/Foundation.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/vi.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/vi.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/zh-Hans.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/zh-Hans.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/zh-Hant.lproj/Foundation.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/zh-Hant.lproj/Localizable.strings
+Pods/Mapbox-iOS-SDK/dynamic/Mapbox.framework/zh-Hant.lproj/Localizable.stringsdict
+Pods/Mapbox-iOS-SDK/LICENSE.md
+Pods/Mapbox-iOS-SDK/README.md
+Pods/MapboxMobileEvents/LICENSE.md
+Pods/MapboxMobileEvents/README.md
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/CLLocation+MMEMobileEvents.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/CLLocation+MMEMobileEvents.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/CLLocationManager+MMEMobileEvents.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/CLLocationManager+MMEMobileEvents.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEAPIClient.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEAPIClient.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEAPIClient_Private.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMECategoryLoader.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMECategoryLoader.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMECertPin.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMECertPin.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMECommonEventData.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMECommonEventData.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEConstants.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEConstants.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEDate.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEDate.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEDependencyManager.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEDependencyManager.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEDispatchManager.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEDispatchManager.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEEvent.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEEvent.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEEventLogger.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEEventLogger.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEEventsManager.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEEventsManager.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEEventsManager_Private.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMELocationManager.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMELocationManager.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEMetrics.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEMetrics.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEMetricsManager.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEMetricsManager.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMENSURLSessionWrapper.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMENSURLSessionWrapper.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEReachability.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEReachability.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMETimerManager.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMETimerManager.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMETypes.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEUIApplicationWrapper.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEUIApplicationWrapper.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEUniqueIdentifier.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/MMEUniqueIdentifier.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/NSBundle+MMEMobileEvents.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/NSBundle+MMEMobileEvents.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/NSData+MMEGZIP.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/NSData+MMEGZIP.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/NSProcessInfo+SystemInfo.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/NSProcessInfo+SystemInfo.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/NSString+MMEVersions.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/NSString+MMEVersions.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/NSUserDefaults+MMEConfiguration.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/NSUserDefaults+MMEConfiguration.m
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/NSUserDefaults+MMEConfiguration_Private.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/UIKit+MMEMobileEvents.h
+Pods/MapboxMobileEvents/Sources/MapboxMobileEvents/include/MapboxMobileEvents/UIKit+MMEMobileEvents.m
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Target Support Files/Mapbox-iOS-SDK/Mapbox-iOS-SDK.debug.xcconfig
+Pods/Target Support Files/Mapbox-iOS-SDK/Mapbox-iOS-SDK.release.xcconfig
+Pods/Target Support Files/MapboxMobileEvents/MapboxMobileEvents-dummy.m
+Pods/Target Support Files/MapboxMobileEvents/MapboxMobileEvents-Info.plist
+Pods/Target Support Files/MapboxMobileEvents/MapboxMobileEvents-prefix.pch
+Pods/Target Support Files/MapboxMobileEvents/MapboxMobileEvents-umbrella.h
+Pods/Target Support Files/MapboxMobileEvents/MapboxMobileEvents.debug.xcconfig
+Pods/Target Support Files/MapboxMobileEvents/MapboxMobileEvents.modulemap
+Pods/Target Support Files/MapboxMobileEvents/MapboxMobileEvents.release.xcconfig
+Pods/Target Support Files/Pods-Tilesets-TilesetsUITests/Pods-Tilesets-TilesetsUITests-acknowledgements.markdown
+Pods/Target Support Files/Pods-Tilesets-TilesetsUITests/Pods-Tilesets-TilesetsUITests-acknowledgements.plist
+Pods/Target Support Files/Pods-Tilesets-TilesetsUITests/Pods-Tilesets-TilesetsUITests-dummy.m
+Pods/Target Support Files/Pods-Tilesets-TilesetsUITests/Pods-Tilesets-TilesetsUITests-frameworks-Debug-input-files.xcfilelist
+Pods/Target Support Files/Pods-Tilesets-TilesetsUITests/Pods-Tilesets-TilesetsUITests-frameworks-Debug-output-files.xcfilelist
+Pods/Target Support Files/Pods-Tilesets-TilesetsUITests/Pods-Tilesets-TilesetsUITests-frameworks-Release-input-files.xcfilelist
+Pods/Target Support Files/Pods-Tilesets-TilesetsUITests/Pods-Tilesets-TilesetsUITests-frameworks-Release-output-files.xcfilelist
+Pods/Target Support Files/Pods-Tilesets-TilesetsUITests/Pods-Tilesets-TilesetsUITests-frameworks.sh
+Pods/Target Support Files/Pods-Tilesets-TilesetsUITests/Pods-Tilesets-TilesetsUITests-Info.plist
+Pods/Target Support Files/Pods-Tilesets-TilesetsUITests/Pods-Tilesets-TilesetsUITests-umbrella.h
+Pods/Target Support Files/Pods-Tilesets-TilesetsUITests/Pods-Tilesets-TilesetsUITests.debug.xcconfig
+Pods/Target Support Files/Pods-Tilesets-TilesetsUITests/Pods-Tilesets-TilesetsUITests.modulemap
+Pods/Target Support Files/Pods-Tilesets-TilesetsUITests/Pods-Tilesets-TilesetsUITests.release.xcconfig
+Pods/Target Support Files/Pods-Tilesets/Pods-Tilesets-acknowledgements.markdown
+Pods/Target Support Files/Pods-Tilesets/Pods-Tilesets-acknowledgements.plist
+Pods/Target Support Files/Pods-Tilesets/Pods-Tilesets-dummy.m
+Pods/Target Support Files/Pods-Tilesets/Pods-Tilesets-frameworks-Debug-input-files.xcfilelist
+Pods/Target Support Files/Pods-Tilesets/Pods-Tilesets-frameworks-Debug-output-files.xcfilelist
+Pods/Target Support Files/Pods-Tilesets/Pods-Tilesets-frameworks-Release-input-files.xcfilelist
+Pods/Target Support Files/Pods-Tilesets/Pods-Tilesets-frameworks-Release-output-files.xcfilelist
+Pods/Target Support Files/Pods-Tilesets/Pods-Tilesets-frameworks.sh
+Pods/Target Support Files/Pods-Tilesets/Pods-Tilesets-Info.plist
+Pods/Target Support Files/Pods-Tilesets/Pods-Tilesets-umbrella.h
+Pods/Target Support Files/Pods-Tilesets/Pods-Tilesets.debug.xcconfig
+Pods/Target Support Files/Pods-Tilesets/Pods-Tilesets.modulemap
+Pods/Target Support Files/Pods-Tilesets/Pods-Tilesets.release.xcconfig
+Pods/Target Support Files/Pods-TilesetsTests/Pods-TilesetsTests-acknowledgements.markdown
+Pods/Target Support Files/Pods-TilesetsTests/Pods-TilesetsTests-acknowledgements.plist
+Pods/Target Support Files/Pods-TilesetsTests/Pods-TilesetsTests-dummy.m
+Pods/Target Support Files/Pods-TilesetsTests/Pods-TilesetsTests-Info.plist
+Pods/Target Support Files/Pods-TilesetsTests/Pods-TilesetsTests-umbrella.h
+Pods/Target Support Files/Pods-TilesetsTests/Pods-TilesetsTests.debug.xcconfig
+Pods/Target Support Files/Pods-TilesetsTests/Pods-TilesetsTests.modulemap
+Pods/Target Support Files/Pods-TilesetsTests/Pods-TilesetsTests.release.xcconfig
+Tilesets.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Tilesets.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+Tilesets.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
